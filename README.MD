@@ -3,6 +3,8 @@
 
 <p>Here is our work</p>
 <p> to use the code in this directory use the following commands </p>
-**submodule** 'git submodule add https://github.com/ThrowTheSwitch/Unity.git lib/unity'
-'git submodule update --init --recursive'
+**submodule** 
+git submodule add https://github.com/ThrowTheSwitch/Unity.git lib/unity
+</br>
+git submodule update --init --recursive
 <p> whatsmore</p>
